@@ -4,7 +4,7 @@ Estudante de Engenharia de Computação na Ufes. Lidero a comissão de Manutenç
 
 ## IA
 
-- [triagem-dependabot](https://github.com/leonardovrezende/triagem-dependabot): agente que faz sozinho, toda semana, a triagem das PRs do Dependabot dos dois grupos. Mescla só o que passa no piso de supply chain e deixa o resto numa fila para alguém decidir. Nas quatro primeiras rodadas, mesclou 34 PRs.
+- [triagem-dependabot](https://github.com/leonardovrezende/triagem-dependabot): agente que faz sozinho, toda semana, a triagem das PRs do Dependabot dos dois grupos. Mescla só o que passa no piso de supply chain e deixa o resto numa fila para alguém decidir. Em quatro semanas, mesclou 34 PRs.
 - No [ai-memory](https://github.com/akitaonrails/ai-memory), memória entre sessões para agentes, propus duas melhorias que o mantenedor implementou ([#1692](https://github.com/akitaonrails/ai-memory/issues/1692) e [#2103](https://github.com/akitaonrails/ai-memory/issues/2103)).
 
 ## No ar
