@@ -12,7 +12,6 @@ Estudante de Engenharia de Computação na Ufes. Mantenho os sistemas do PET Eng
 ## Infraestrutura
 
 - [moj-docker](https://github.com/pet-eng-comp-org/moj-docker): o MOJ, juiz da Maratona SBC, em Docker com o juiz incluído.
-- [maquinas](https://github.com/pet-eng-comp-org/maquinas): as máquinas da sala do PET, gerenciadas com Ansible e acessadas de fora pelo Tailscale.
 - [monitor](https://github.com/pet-eng-comp-org/monitor): avisa pelo ntfy quando um site da VM sai do ar.
 
-TypeScript, Next.js, Express, PostgreSQL, MySQL, Docker, Traefik, GitHub Actions, Ansible e Claude Code.
+TypeScript, Next.js, Express, PostgreSQL, MySQL, Docker, Traefik, GitHub Actions e Claude Code.
