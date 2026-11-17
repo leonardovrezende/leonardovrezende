@@ -1,6 +1,6 @@
 # Leonardo Vitório Rezende
 
-Estudante de Engenharia de Computação na Ufes. Mantenho os sistemas do PET Engenharia de Computação e do IntroComp e uso agentes de LLM para programar, revisar e automatizar a manutenção deles.
+Estudante de Engenharia de Computação na Ufes. Lidero a comissão de Manutenção do PET Engenharia de Computação e a de Infraestrutura do IntroComp, onde mantenho os sistemas em produção, e uso agentes de LLM para programar, revisar e automatizar a manutenção deles.
 
 ## No ar
 
@@ -18,5 +18,6 @@ Estudante de Engenharia de Computação na Ufes. Mantenho os sistemas do PET Eng
 
 - [Mini-kernel multithread](https://github.com/leonardovrezende/TP-SO-2026-1-1a-Etapa): escalonador de processos em C com pthreads, com FCFS, Round-Robin e prioridade preemptiva em 1 e 2 CPUs. Feito em dupla para Sistemas Operacionais.
 - [Jogo de luta em Assembly 8086](https://github.com/leonardovrezende/Projeto_ASM): dois jogadores, para o DOSBox. Feito em dupla para Sistemas Embarcados I.
+- [Casa inteligente](https://github.com/joaosubtil27/Casa-Inteligente): ESP8266 em C++ com sensores de gás inflamável e de presença que avisam pelo celular via Wi-Fi. Feita em trio para Projeto Integrado de Computação I.
 
 TypeScript, Next.js, Express, PostgreSQL, MySQL, Docker, Traefik, GitHub Actions e Claude Code.
