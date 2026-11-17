@@ -14,4 +14,9 @@ Estudante de Engenharia de Computação na Ufes. Mantenho os sistemas do PET Eng
 - [moj-docker](https://github.com/pet-eng-comp-org/moj-docker): o MOJ, juiz da Maratona SBC, em Docker com o juiz incluído.
 - [monitor](https://github.com/pet-eng-comp-org/monitor): avisa pelo ntfy quando um site da VM sai do ar.
 
+## Faculdade
+
+- [Mini-kernel multithread](https://github.com/leonardovrezende/TP-SO-2026-1-1a-Etapa): escalonador de processos em C com pthreads, com FCFS, Round-Robin e prioridade preemptiva em 1 e 2 CPUs. Feito em dupla para Sistemas Operacionais.
+- [Jogo de luta em Assembly 8086](https://github.com/leonardovrezende/Projeto_ASM): dois jogadores, para o DOSBox. Feito em dupla para Sistemas Embarcados I.
+
 TypeScript, Next.js, Express, PostgreSQL, MySQL, Docker, Traefik, GitHub Actions e Claude Code.
